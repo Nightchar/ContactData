@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ContactData</string>
+
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="no_data_available">No Data available</string>
+    <string name="err_loading_data">Error in loading data</string>
+
+    <!-- Error -->
+    <string name="err_connect_exception">There is no Internet connection!</string>
+    <string name="err_unknown_host_exception">There is no Internet connection!</string>
+    <string name="err_ssl_exception">Service unavailable. \nPlease try again later.</string>
+    <string name="err_socket_timeout_exception">Service unavailable. \nPlease try again later.</string>
+    <string name="err_ssl_handshake_exception">Service unavailable. \nPlease try again later.</string>
+</resources>

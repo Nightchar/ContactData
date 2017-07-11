@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Database -->
+    <string name="database_name">contact-data-db</string>
+
+    <!-- Services -->
+    <string name="base_url">http://139.162.152.157/</string>
+
+    <!-- Message list -->
+    <string name="contact_service_name">contactlist.php</string>
+</resources>
